@@ -7,10 +7,10 @@ This repository will showcase my **Web Development** learning progress over the 
 <details>
   <summary>Week 1: HTML & CSS &#8595;</summary>
   - Goal: Understand the basics of web structure (HTML) and styling (CSS)
-  - <summary>Projects:
+  - Projects:
     - Personal Portfolio Page
     - Contact Form
     - Basic Data Table
-    - Card Component Layout</summary>
+    - Card Component Layout
 </details>
 
